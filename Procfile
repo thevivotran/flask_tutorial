@@ -1,1 +1,1 @@
-web: waitress-serve --call 'flaskr:create_app'
+flaskr:create_app
